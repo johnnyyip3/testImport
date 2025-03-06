@@ -1,0 +1,9 @@
+check no npm module installed: npm list -> empty
+
+=====================
+npx express-generator --view=ejs proj1
+cd proj1
+npm install
+npm audit fix --force
+==============
+Set-ExecutionPolicy bypass -Scope CurrentUser
