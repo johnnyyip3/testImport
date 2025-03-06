@@ -7,3 +7,5 @@ npm install
 npm audit fix --force
 ==============
 Set-ExecutionPolicy bypass -Scope CurrentUser
+
+test github
